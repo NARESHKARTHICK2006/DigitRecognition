@@ -1,0 +1,3 @@
+[submodule "parent_code"]
+	path = parent_code
+	url = https://github.com/ZOROVIKKY/DigitRecognition.git
